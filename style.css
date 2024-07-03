@@ -1,0 +1,50 @@
+body {
+    background-color: #EAF6F6;
+}
+h1{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+.title{
+    font-family: "fredoka";
+    text-align: center;
+}
+.title h1{
+    font-size: 2.5rem;
+}
+.container{
+    font-family: "fredoka";
+    text-align: center;
+    padding: 3% 3%;
+    font-size: 1.13rem;
+
+}
+
+.container form{
+    position: relative;
+    width: 480px;
+    margin: 30px auto 20px auto;
+    background: #fff;
+    padding: 15px;
+    border-radius: 7px;
+    box-shadow: 0 1px 5px rgb(138, 137, 137);
+}
+
+.container .btn{
+    border-radius: 6px;
+    background-color: #66BFBF;
+    cursor:pointer;
+}
+.container input{
+    padding: 6px;
+    margin: 6px;
+}
